@@ -1,0 +1,179 @@
+/*#ff8374
+#879cdf*/
+
+:root {
+  --custom-color: #3e4147;
+}
+
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #202225;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+}
+
+header {
+  position: relative;
+  margin: 5em auto;
+  padding-bottom: 2em;
+  max-width: 1000px;
+  background: var(--custom-color);
+  border-radius: 8px;
+  color: #fff;
+  text-align: center;
+  z-index: 2;
+}
+
+h1 {
+  font-size: 2.6em;
+}
+
+h2 {
+  margin: 0 auto;
+  width: 950px;
+  padding-bottom: 1.2em;
+  color: #202225;
+  font-size: 2em;
+}
+
+h3 {
+  padding: 0.2em 0 0.8em;
+  font-size: 1.2em;
+  font-weight: 600;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.profile-picture {
+  margin-top: -2.5em;
+  border-radius: 50%;
+  border: 5px solid #fff;
+  height: 250px;
+}
+
+.information {
+  display: flex;
+  margin: 0 auto;
+  width: 600px;
+}
+
+.information div {
+  flex: 1 0 auto;
+}
+
+.information div span {
+  padding: 0 0.8em;
+}
+
+.github {
+  position: relative;
+  margin-top: -8em;
+  padding: 5em 0 4em;
+  background: #fff;
+  text-align: center;
+  z-index: 1;
+}
+
+.section__info-blocks {
+  display: flex;
+  flex-flow: row wrap;
+  margin: 0 auto;
+  width: 900px;
+}
+
+.info-block {
+  flex: 1 0 400px;
+  margin: 0.5em;
+  padding: 1.2em 0;
+  background: var(--custom-color);
+  border-radius: 5px;
+  color: #fff;
+}
+
+.info-block div {
+  font-size: 1.4em;
+  font-weight: 500;
+}:root {
+  --custom-color: #000;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #32353a;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: red;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: undefined;
+}:root {
+  --custom-color: #0f9cff;
+}:root {
+  --custom-color: #0f9cff;
+}
